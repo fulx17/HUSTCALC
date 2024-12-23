@@ -1,0 +1,68 @@
+0 68 100 Tổng điểm
+1 0 30 Điểm học tập
+2 0 25 Điểm về tổ chức ý thức kỷ luật
+3 0 25 Điểm tham gia hoạt động chính trị, xã hội, văn hoá, thể thao
+4 0 20 Điểm ý thức công dân trong quan hệ cộng đồng
+5 1 24 Kết quả học tập có điểm trung bình năm học
+6 1 6 Trình độ ngoại ngữ
+7 1 9 Tham gia các hoạt động học thuật
+8 1 6 Có kế hoạch học tập phù hợp
+9 2 20 Tham gia các hoạt động bắt buộc
+10 2 9 Tham gia các hoạt động bổ trợ
+11 2 9 Có ý thức tuân thủ kỷ luật học tập
+12 3 10 Tham gia các hoạt động phong trào văn hóa, thể thao
+13 3 12 Tham gia các hoạt động chính trị - xã hội
+14 3 6 Tham gia công tác cán bộ lớp, Đoàn - Hội
+15 4 16 Các hoạt động liên quan đến trách nhiệm công dân
+16 4 4 Có các thành tích trong học tập và rèn luyện
+17 5 20 Có kết quả học tập ở mức GPA ≥ 3.6
+18 5 18 Có kết quả học tập ở mức: 3.2 ≤ GPA < 3.6
+19 5 16 Có kết quả học tập ở mức: 2.5 ≤ GPA < 3.2
+20 5 14 Có kết quả học tập ở mức: 2.0 ≤ GPA < 2.5
+21 5 12 Có kết quả học tập ở mức: 1.5 ≤ GPA < 2.0
+22 5 8 Có nỗ lực trong học tập (GPA kỳ đánh giá cao hơn kỳ trước, giảm mức cảnh cáo học tập, hoặc duy trì điểm GPA trên 3.6 )
+23 6 4 Đạt trình độ ngoại ngữ theo tiến độ của chương trình đào tạo
+24 6 2 Đạt chứng chỉ ngoại ngữ tương đương Toeic 600 điểm trở lên
+25 7 3 Tham gia hoạt động, sự kiện liên quan đến NCKH, học thuật, chuyên môn
+26 7 6 Tham gia công bố khoa học tại Hội nghị hoặc tạp chí KH chuyên ngành
+27 7 6 Thành viên CLB học thuật, Lab nghiên cứu, Nhóm nghiên cứu, nhóm Khởi nghiệp
+28 7 6 Tham gia các cuộc thi Olympic cấp Đại học, cấp quốc gia, quốc tế
+29 7 6 Tham gia khóa đào tạo kỹ năng nghề nghiệp, kỹ năng bổ trợ chuyên môn
+30 8 6 Có kế hoạch học tập và rèn luyện phù hợp được thầy cô ghi nhận
+31 9 7 Tham gia Sinh hoạt công dân do nhà trường tổ chức
+32 9 7 Tham gia Họp lớp thường kỳ do Trường thuộc/Viện/Khoa tổ chức
+33 9 6 Nắm vững quy định và quy chế của Nhà trường
+34 10 6 Tham gia thực tập tăng cường năng lực nghề nghiệp tại doanh nghiệp
+35 10 3 Tham gia hội thảo tăng cường kỹ năng mềm, phương pháp học tập, ý thức học tập, làm việc
+36 10 3 Tham gia các buổi nói chuyện thời sự, phòng chống tội phạm và tệ nạn xã hội
+37 10 3 Tham gia hoạt động hướng nghiệp, tìm kiếm thông tin việc làm
+38 10 6 Tham gia khóa đào tạo kỹ năng mềm
+39 11 6 Không bị cấm thi của tất cả các học phần trong kỳ học
+40 11 6 Có tổng thời gian tự học tại thư viện, phòng tự học, hệ thống học tập trực tuyến ... được các đơn vị ghi nhận tối thiểu 160 giờ/kỳ
+41 12 6 Tham gia các cuộc thi biểu diễn văn hóa văn nghệ được tổ chức bởi các đơn vị hợp pháp (hát, múa, nhảy, đàn, sáo, vẽ tranh,…). 
+42 12 6 Tham gia các giải thể thao được tổ chức bởi các đơn vị hợp pháp (các môn thể thao chính thức như: chạy, bóng đá, cờ vua, bóng chuyền,…).
+43 12 3 Tham gia các hoạt động phổ biến, tìm hiểu bản sắc văn hóa dân tộc, văn hóa địa phương, văn hóa trường học,…
+44 12 4 Tham gia các hoạt động thể dục nâng cao sức khỏe được tổ chức bởi các đơn vị hợp pháp
+45 12 3 Tham gia cổ vũ các hoạt động phong trào văn hóa, thể thao
+46 12 6 Thành viên CLB/Tổ/Đội/Nhóm SV hợp pháp, hoạt động về văn nghệ, thể thao, tình nguyện, sở thích
+47 13 3 Tham gia hoạt động tình nguyện (mùa hè xanh, tình nguyện tại chỗ, cổng trường ATGT)
+48 13 3 Tham gia phong trào "cốc trà đá vì cộng đồng"," tuổi trẻ Bách khoa Nhân ái"
+49 13 6 Tham gia hiến máu nhân đạo do Trường và các tổ chức hợp pháp phát động, tổ chức
+50 13 3 Tham gia các diễn đàn sinh viên, các buổi toạ đàm với lãnh đạo Đại học, Trường thuộc/Viện/Khoa
+51 13 3 Có hành động tích cực trên không gian mạng (hoạt động online) phù hợp với chủ trương của Nhà trường, Nhà nước được tập thể ghi nhận
+52 13 6 Tham gia Đội tình nguyện hợp pháp trong và ngoài trường, tham gia chiến dịch tình nguyện "mùa hè xanh", "tình nguyện mùa đông", "tiếp sức mùa thi",…
+53 13 3 Tham gia hoạt động khảo sát thông tin do Đại học thực hiện
+54 13 3 Tham gia sự kiện chính trị - xã hội (các Đại hội, Hội nghị, cuộc họp của tổ chức Đảng - Đoàn - Hội từ cấp Chi bộ - Chi đoàn - Chi hội trở lên,… và các chương trình mang tính chính trị - xã hội khác)
+55 14 6 Cán bộ Tổ/Đội/CLB, Lớp, Đoàn - Hội, Chi bộ hoàn thành xuất sắc nhiệm vụ được tập thể công nhận
+56 14 4 Cán bộ Tổ/Đội/CLB, Lớp, Đoàn - Hội, Chi bộ hoàn thành tốt nhiệm vụ được tập thể công nhận
+57 14 2 Cán bộ Tổ/Đội/CLB, Lớp, Đoàn - Hội, Chi bộ hoàn thành nhiệm vụ được tập thể công nhận
+58 15 8 Hiểu biết và chấp hành pháp luật của Nhà nước, quy định của nhà trường và nơi cư trú
+59 15 4 Tham gia tuyên truyền chủ trương của Đảng, chính sách pháp luật của Nhà nước, quy định của nơi cư trú, quy định và quy chế của nhà trường được địa phương, Nhà trường công nhận
+60 15 4 Khai báo thông tin liên lạc và nơi cư trú theo yêu cầu của Đại học
+61 15 4 Tham gia giữ gìn an ninh – trật tự, bảo vệ sinh cảnh quan - môi trường, nếp sống văn minh nơi công cộng, quảng bá hình ảnh đẹp của Nhà trường được địa phương, Nhà trường công nhận
+62 16 4 Được giấy khen, bằng khen của tổ chức Đoàn, Hội, Nhà trường hoặc chính quyền địa phương.
+63 16 4 Đạt loại Khá trở lên khi tham gia học "Lớp bồi dưỡng nhận thức về Đảng"
+64 16 4 Đối tượng Đảng được kết nạp Đảng hoặc Đảng viên dự bị được chuyển Đảng chính thức.
+65 16 4 Đạt danh hiệu Sinh viên năm tốt từ cấp Trường trở lên
+66 16 4 Nhận bằng khen, huy chương tương đương cấp Bộ trở lên
+67 16 4 Đạt giải trong các cuộc thi chính thức cấp Trường, cấp Thành phố, cấp Quốc gia, Quốc tế.
